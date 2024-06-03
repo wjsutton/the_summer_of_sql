@@ -1,10 +1,28 @@
-# The Summer of SQL
+# 🌞 The Summer of SQL 🌞
 
 Welcome to The Summer of SQL! This series is designed to help participants gain skills and confidence in SQL through a variety of hands-on challenges.
 
+I ran this series interally with [The Information Lab](https://www.theinformationlab.co.uk/) which:
+- Doubled our active SQL users monthly
+- Empowered participants to start their own SQL projects
+- Gave them the confidence to run their own SQL training sessions
+
+If you are new to SQL, we recommend starting with the interactive tutorials on [SQLBolt](https://sqlbolt.com/). These tutorials will help you understand the basics of SQL and prepare you for the weekly challenges ahead.
+
 ## How It Works
 
-Each week, a new SQL challenge will be posted. Participants can attempt the challenge, and then review the walkthrough and solutions to enhance their understanding. 
+Each week, a new SQL challenge will be posted to socials. Participants can attempt the challenge, and then review the walkthrough and solutions to enhance their SQL skills. 
+
+Of note, there are sometimes:
+-  multiple ways to solve a question,
+-  different was of interpreting a question,
+-  and variations in SQL dialects (e.g. mySQL vs PostgreSQL) 
+
+Your answer may be different and that's ok! 
+
+If you can explain why you have written the code to answer the question that is the most important thing.   
+
+Share your progress on social media using the hashtags **#SummerofSQL** and **#datafam**. 
 
 ## Challenges
 
@@ -22,20 +40,5 @@ Each week, a new SQL challenge will be posted. Participants can attempt the chal
 | 10. | Data with Danny: <br>[Data Bank Section B](https://8weeksqlchallenge.com/case-study-4/) | 1 day         | - End of month calculations<br>- Running sums<br>- conditional aggregations | [YouTube Walkthrough](https://youtu.be/hZNKRPcMMXk?si=wDV2Zp31qwNN5elX)| [Solutions](https://github.com/wjsutton/data_with_danny_8_week_sql_challenge/blob/main/Case%20Study%204%20-%20Data%20Bank/week4b_solutions.sql)|
 | 11. | Portfolio Project: Olympics | 2 days          | Coming Soon! | | |
 
-## How to Participate
 
-1. **Access the Challenge**: Click on the link in the "Link to Challenge" column.
-2. **Attempt the Challenge**: Try to solve the challenge on your own.
-3. **Review the Walkthrough**: If you get stuck, refer to the walkthrough for guidance.
-4. **Check Solutions**: After completing the challenge, compare your solution with the provided solutions.
-
-## Additional Resources
-
-- [SQL Basics](https://linktobasics.com)
-- [Advanced SQL Techniques](https://linktoadvanced.com)
-- [SQL Community Forum](https://linktocommunityforum.com)
-
----
-
-Happy querying!
 
